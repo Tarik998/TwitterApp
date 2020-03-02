@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\bin\Debug\Twitter_Console.exe.config
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\bin\Debug\Twitter_Console.exe
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\bin\Debug\Twitter_Console.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\obj\Debug\Twitter_Console.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\obj\Debug\Twitter_Console.exe
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\obj\Debug\Twitter_Console.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\bin\Debug\TweetManager.dll
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\bin\Debug\TweetManager.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter_Console\obj\Debug\Twitter_Console.csproj.CopyComplete

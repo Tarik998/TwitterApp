@@ -1,0 +1,12 @@
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\bin\Debug\Twitter-From.exe.config
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\bin\Debug\Twitter-From.exe
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\bin\Debug\Twitter-From.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter-From.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter_From.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter_From.Twitter.resources
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter-From.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter-From.exe
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter-From.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\bin\Debug\TweetManager.dll
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\bin\Debug\TweetManager.pdb
+C:\Users\LENOVO\source\repos\Twitter_Console\Twitter-From\obj\Debug\Twitter-From.csproj.CopyComplete
